@@ -15,7 +15,6 @@ Unlike the NES game where you control Mikey, the MSX version puts you in the sho
 
 ## Team members
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C925C&random=false&width=435&lines=Francisco+Javier+Pedre%C3%B1o+Monge)](https://git.io/typing-svg)
-
 * Managment
 * Code
 * QA
@@ -24,8 +23,7 @@ Unlike the NES game where you control Mikey, the MSX version puts you in the sho
 
 ![alt text](javi_villager.png)
 
-_Alba Fernández Hernández_
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8999F5&random=false&width=435&lines=Alba+Fern%C3%A1ndez+Hern%C3%A1ndez)](https://git.io/typing-svg)
 * Management
 * Code
 * Art/Design
