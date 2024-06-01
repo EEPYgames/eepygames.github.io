@@ -11,7 +11,33 @@ The MSX version is known for its difficulty. You only get one life, though passw
 Unlike the NES game where you control Mikey, the MSX version puts you in the shoes of Sloth (the Fratelli brother with a heart of gold). The game features five vast, non-linear stages, each consisting of 25 interconnected screens. This allows for more freedom in exploration compared to the NES's more linear levels.Sloth punches his way through enemies like bats and skulls. He can also collect items to aid his progress. A key twist is that you need to rescue all seven Goonies in each stage, making them significantly longer than the NES stages where you only save one per level. Keys replace bombs as the method to open doors, but you can only carry one key at a time, adding a strategic element.
 
 # EEPY Games - Our team
+![alt text](Team.jpeg)
 
+## Team members
+_Francisco Javier Pedreño Monge_
+
+* Managment
+* Code
+* QA
+* [Github account](https://github.com/Wakiren)
+* Gmail: fjp958@gmail.com
+
+![alt text](javi_villager.png)
+
+_Alba Fernández Hernández_
+
+* Management
+* Code
+* Art/Design
+* [Github account](https://github.com/aria00015)
+* Gmail: albafh15@gmail.com
+
+![alt text](alba_villager.png)
+
+_Want to contact us?_
+You can send us an E-mail at:
+* eepy.cat.games@gmail.com
+Or contact us via personal E-mail. Thanks!
 
 # Gameplay
 <iframe width="740" height="590" src="." frameborder="0" allowfullscreen></iframe>
@@ -30,3 +56,11 @@ You will have to collect keys to open doors while rescuing your siblings! "But h
 - "Ctrl": Attack
 
 ```
+
+### For more information see our wiki page [HERE](https://github.com/EEPYgames/The_Goonies-Project_I/wiki)
+### Download the last version of the game [HERE]()
+### Check our Github repository [HERE](https://github.com/EEPYgames/The_Goonies-Project_I)
+
+
+
+#### _Tribute by EEPY Games Studios_
