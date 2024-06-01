@@ -14,4 +14,19 @@ Unlike the NES game where you control Mikey, the MSX version puts you in the sho
 
 
 # Gameplay
+<iframe width="740" height="590" src="." frameborder="0" allowfullscreen></iframe>
 
+# Controls
+
+```yml
+
+You will have to collect keys to open doors while rescuing your siblings! "But how do you do that?" you may ask. With these controls!
+
+- "Left" arrow: Go left
+- "Rigth" arrow: Go rigth
+- "Up" arrow: Climb up
+- "Down" arrow: Climb down
+- Space bar: Jump
+- "Ctrl": Attack
+
+```
