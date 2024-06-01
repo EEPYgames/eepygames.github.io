@@ -40,7 +40,7 @@ You can send us an E-mail at:
 Or contact us via personal E-mail. Thanks!
 
 # Gameplay
-<iframe width="740" height="590" src="https://youtu.be/-eMC8Mv9sJ4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-eMC8Mv9sJ4?si=Rp36PEk9oPUeqm-Z&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Controls
 
