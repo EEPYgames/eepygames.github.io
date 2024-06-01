@@ -19,7 +19,7 @@ _Francisco Javier Pedreño Monge_
 * Managment
 * Code
 * QA
-* [Github account](https://github.com/Wakiren)
+* Github: [Wakiren](https://github.com/Wakiren)
 * Gmail: fjp958@gmail.com
 
 ![alt text](javi_villager.png)
@@ -29,18 +29,20 @@ _Alba Fernández Hernández_
 * Management
 * Code
 * Art/Design
-* [Github account](https://github.com/aria00015)
+* Github: [aria00015](https://github.com/aria00015)
 * Gmail: albafh15@gmail.com
 
 ![alt text](alba_villager.png)
 
 _Want to contact us?_
 You can send us an E-mail at:
+
 * eepy.cat.games@gmail.com
+
 Or contact us via personal E-mail. Thanks!
 
 # Gameplay
-<iframe width="740" height="590" src="." frameborder="0" allowfullscreen></iframe>
+<iframe width="740" height="590" src="https://youtu.be/-eMC8Mv9sJ4" frameborder="0" allowfullscreen></iframe>
 
 # Controls
 
@@ -57,9 +59,13 @@ You will have to collect keys to open doors while rescuing your siblings! "But h
 
 ```
 
+
+
+
 ### For more information see our wiki page [HERE](https://github.com/EEPYgames/The_Goonies-Project_I/wiki)
 ### Download the last version of the game [HERE]()
 ### Check our Github repository [HERE](https://github.com/EEPYgames/The_Goonies-Project_I)
+
 
 
 
