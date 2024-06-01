@@ -14,7 +14,7 @@ Unlike the NES game where you control Mikey, the MSX version puts you in the sho
 ![alt text](Team.jpeg)
 
 ## Team members
-_Francisco Javier Pedreño Monge_
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C925C&random=false&width=435&lines=Francisco+Javier+Pedre%C3%B1o+Monge)](https://git.io/typing-svg)
 
 * Managment
 * Code
