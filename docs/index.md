@@ -18,7 +18,7 @@ Unlike the NES game where you control Mikey, the MSX version puts you in the sho
 
 # Controls
 
-```yml
+```
 
 You will have to collect keys to open doors while rescuing your siblings! "But how do you do that?" you may ask. With these controls!
 
