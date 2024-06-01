@@ -2,6 +2,6 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [The Goonies - a tribiute]
-description: [Gogogogo]
+title: [The Goonies]
+description: [Project I - A tribute]
 

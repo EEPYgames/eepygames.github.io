@@ -1,5 +1,17 @@
-# THE GOONIES
+![alt text](<EEPY LOGO.png>)
 
-[hola2](hola2.md)
+# Our project
+We have replicated the game The Goonies from 1986, developed by Konami for the Family Computer as a tribute to the game. This project has been done thanks to the contributions and hard work of the members from EEPYgames, which are students of the UPC, CITM - Barcelona (Catalonia, Spain).
 
-[hola1](hola/hola1.md)
+# About the game
+The Goonies is a 1986 platform game based on the film of the same name produced by Konami for the Family Computer in Japan, and also for the MSX home computer, even though The Goonies for the MSX in 1986 offers a distinct experience compared to the NES version.
+
+The MSX version is known for its difficulty. You only get one life, though passwords are provided between stages to help with progress. The graphics are a bit simpler compared to the NES, but the music is still catchy and the gameplay holds its own as a challenging and rewarding platformer.
+
+Unlike the NES game where you control Mikey, the MSX version puts you in the shoes of Sloth (the Fratelli brother with a heart of gold). The game features five vast, non-linear stages, each consisting of 25 interconnected screens. This allows for more freedom in exploration compared to the NES's more linear levels.Sloth punches his way through enemies like bats and skulls. He can also collect items to aid his progress. A key twist is that you need to rescue all seven Goonies in each stage, making them significantly longer than the NES stages where you only save one per level. Keys replace bombs as the method to open doors, but you can only carry one key at a time, adding a strategic element.
+
+# EEPY Games - Our team
+
+
+# Gameplay
+
