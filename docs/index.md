@@ -40,7 +40,7 @@ You can send us an E-mail at:
 Or contact us via personal E-mail. Thanks!
 
 # Gameplay
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-eMC8Mv9sJ4?si=Rp36PEk9oPUeqm-Z&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4r-dFfUUs3Y?si=0-i7fOX7zehjdeIR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Controls
 
@@ -62,7 +62,7 @@ You will have to collect keys to open doors while rescuing your siblings!
 
 
 ### For more information see our wiki page [HERE](https://github.com/EEPYgames/The_Goonies-Project_I/wiki)
-### Download the last version of the game [HERE]()
+### Download the last version of the game [HERE](https://github.com/EEPYgames/The_Goonies-Project_I/releases)
 ### Check our Github repository [HERE](https://github.com/EEPYgames/The_Goonies-Project_I)
 
 
